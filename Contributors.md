@@ -95,6 +95,7 @@
 - [Miguel Sanchez]
 - [puralpha](https://github.com/puralpha)
 - [Sumit Nayak](https://github.com/NotaScripptkiddie)
+- MarianB-da45
 - [Vimal Ganesh M](https://github.com/M-Vimal)
 - [Ali-dev11](https://github.com/Ali-dev11)
   [Shahin_Hashemi] (https://github.com/techsup93)
